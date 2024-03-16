@@ -1,0 +1,14 @@
+.wawa-sep {
+  background: linear-gradient(to bottom, green, darkgreen, green);
+  margin-bottom: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) inset;
+}
+.wawa-sep h3 {
+  color: white;
+  margin: 0;
+  line-height: 1;
+  font-size: 14px;
+}
+.wawa-sep.child h3 {
+  font-size: 12px;
+}
